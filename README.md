@@ -1,1 +1,1 @@
-# Analysis-of-Ice-Recrystallization-Inhibition-Activities-among-Different-Antifreeze-Proteins
+The file is a PhD thesis submitted to Hokkaido University. 
